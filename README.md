@@ -5,6 +5,7 @@
 
 • Detects and Reports any unauthorized intrusion near the borders by using object detection algorithm
 
-Author:
-Darshan Harsora, 
+## Author:
+Darshan Harsora,
+
 Ajay Kothiya
